@@ -39,6 +39,7 @@ THEN I am able to successfully create, update, and delete data in my database
 - [Built Using](#built-using)
 - [Preview](#preview)
 - [Links](#links)
+- [Credits](#credits)
 - [License](#license)
 
 ----------------------------------------------------------------------
@@ -68,7 +69,11 @@ THEN I am able to successfully create, update, and delete data in my database
 <img src= "assets/images/C13 Demo 2.gif"/>
 <img src= "assets/images/C13 Demo 3.gif"/>
 
-#
+## Credits
+
+This project was worked on in collaboration with:
+- Erin Peifer: https://github.com/Airen22
+- Starter-code credits: UTA Coding Bootcamp
 
 ## Links
 
